@@ -1,22 +1,4 @@
 
-butkan readme https://github.com/adityanurarif9-ai/adityanurarif9-ai.git berdasarkan profile git hub saya dengan rofesinal dan menarik
-
-2:56 PM
-README profesional sudah saya buat berdasarkan profil dan proyek GitHub Anda, lengkap dengan perkenalan, badge teknologi, lima proyek unggulan, dan tautan demo.
-
-📄 Unduh README.md
-
-Untuk memasangnya, salin isinya ke file README.md di repositori adityanurarif9-ai/adityanurarif9-ai, lalu pilih Commit changes. File ini belum diunggah ke GitHub.
-
-2:58 PM
-
-1
-
-g-p-6ad5826f45bc8191a6145bc0b84e43da
-outputs
-github-profile
-README.md
-<div align="center">
 
 <sub>WEB DEVELOPMENT · FINANCIAL APPS · EDUCATIONAL GAMES</sub>
 
